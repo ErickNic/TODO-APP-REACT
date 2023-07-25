@@ -1,0 +1,24 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Simple frontend for toDo App",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickNic/TODO-APP-REACT.git"
+  },
+  "keywords": [
+    "react",
+    "SPA",
+    "ReactHelmet"
+  ],
+  "author": "Erick Meza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErickNic/TODO-APP-REACT/issues"
+  },
+  "homepage": "https://github.com/ErickNic/TODO-APP-REACT#readme"
+}

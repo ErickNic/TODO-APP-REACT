@@ -1,0 +1,35 @@
+{
+  "name": "banckend",
+  "version": "1.0.0",
+  "description": "backend for a simple todo-app",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.ts",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickNic/TODO-APP-REACT.git"
+  },
+  "keywords": [
+    "nodemon",
+    "express",
+    "node"
+  ],
+  "author": "Erick Meza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErickNic/TODO-APP-REACT/issues"
+  },
+  "homepage": "https://github.com/ErickNic/TODO-APP-REACT#readme",
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "^20.4.4",
+    "nodemon": "^3.0.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
